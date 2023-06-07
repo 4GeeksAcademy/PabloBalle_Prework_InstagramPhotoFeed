@@ -1,0 +1,45 @@
+body{
+    background: gray;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 5%;
+}
+
+header{
+    background: white;
+    padding: 2px;
+    
+}
+h1{
+    text-align: center;
+}
+
+.post{
+    background: white;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    padding-top: 3%;
+}
+
+img{
+    width: 100%;
+}
+
+h2{
+    padding-left: 3%;
+    display: inline-block;
+    width: 90%;
+}
+
+span{
+    text-align: end;
+    width:10%;
+    color:gray
+}
+
+.post-footer{
+    padding: 3%;
+}
